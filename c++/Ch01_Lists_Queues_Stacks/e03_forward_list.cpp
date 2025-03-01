@@ -6,9 +6,10 @@
 * Programmer: Jesús López Silva
 * jesuslopezsilva206@gmail.com
 * 
-* Description: Vector in c++
+* Description: Forward list
 *
-*/
+*/ 
+// git add *.cpp *.java
 // g++ e03_forward_list.cpp -o e03_forward_list.exe
 // e03_forward_list.exe
 

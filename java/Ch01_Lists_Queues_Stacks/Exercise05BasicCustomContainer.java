@@ -10,6 +10,7 @@
 */
 // javac Exercise05BasicCustomContainer.java
 // java Exercise05BasicCustomContainer
+//git add *.cpp *.java
 
 class SinglyLinkedListNode {
     public int data;

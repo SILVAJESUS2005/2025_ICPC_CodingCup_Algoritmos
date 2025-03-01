@@ -10,6 +10,7 @@
 */
 // javac Exercise05BasicCustomContainerGeneric.java
 // java Exercise05BasicCustomContainerGeneric
+//git add *.cpp *.java
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;
